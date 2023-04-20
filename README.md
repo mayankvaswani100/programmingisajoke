@@ -12,12 +12,12 @@
 <h2 align=center>🧑‍💻Mi Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,dart,flutter,github" />
+    <img src="https://skillicons.dev/icons?i=git,c,dart,flutter,github,linux" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,vscode,bash,react,nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,vscode,bash,react,nodejs,py,arduino,md" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 - 🔭 I'm currently working on improving my data structures and algorithms skills
 - 🌱 I"m currently learning Flutter and Data Structures
-- 👯 I"m looking to collaborate on a Flutter project
+- 👯 I"m looking to collaborate on a Python project
 - 🤔 I"m looking for help with Flutter and Data Structures
 - 💬 Ask me about Python and Flutter
 - 📫 How to reach me: [Discord](https://discord.gg/CqbavexBG5)
